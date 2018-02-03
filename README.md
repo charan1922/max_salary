@@ -21,6 +21,8 @@ npm run dev
 
 ## To display salaries from database
 (http://localhost:7000/salary)
+![alt text](https://postimages.org/][img]https://s14.postimg.org/m9e5535vl/salary.jpg)
 
 ## To display maximum salary
 (http://localhost:7000/maxsalary)
+![alt text](https://postimages.org/][img]https://s14.postimg.org/9hzyykodt/maxsalary.jpg)
