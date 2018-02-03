@@ -1,8 +1,26 @@
-# Node.js-API
- basic CRUD routes with Node.js, Express, and MongoDB.
+# max_salary of employess
+ To find maximum salary from employess
 
-## Medium link 
-(https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2)
 
-## Youtube Link
-(https://www.youtube.com/watch?v=fsCjFHuMXj0)
+## Build Setup
+
+``` bash
+clone the repo
+
+run  cd max_salary
+
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:3000
+npm run dev
+
+
+```
+
+
+## To display salaries from database
+(http://localhost:7000/salary)
+
+## To display maximum salary
+(http://localhost:7000/maxsalary)
